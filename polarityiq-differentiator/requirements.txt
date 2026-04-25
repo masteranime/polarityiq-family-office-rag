@@ -1,0 +1,12 @@
+requests
+python-dotenv
+pandas
+openpyxl
+supabase
+groq
+sentence-transformers
+beautifulsoup4
+lxml
+fastapi
+uvicorn
+tldextract
