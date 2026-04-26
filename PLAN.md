@@ -63,18 +63,19 @@ For the 3 deep-dive records, I'll show the full chain.
 **What I will not do:**
 - I will not pretend the eval is rigorous on 50 records. With this dataset size, retrieval quality is qualitative, not statistical.
 
-## What I'll learn from this and what I'd improve
+## What I learned and what I would improve
 
-[Filled in at submission time]
+The biggest lesson came from watching my own discovery script return 50 "high confidence" records that were all wrong. The rubric agreed with itself but had no concept of "is this an entity or an article about entities." Manual review caught what the rubric missed. In v2 I would filter article-format titles before scoring, require entity-page signals (About, Team, contact), add WHOIS domain age, and insert a manual review checkpoint between auto-discovery and validation. The discovery scripts stay in the repo as evidence of the failure and the pivot.
 
 ## Hours log
 
 | Phase | Planned | Actual | Notes |
 |---|---|---|---|
-| Setup + plan | 1.5 | | |
-| Discovery + dataset | 12 | | |
-| Validation + 3 deep records | 4 | | |
-| RAG build | 6 | | |
-| Demo + deploy | 3 | | |
-| Task 2 writeup | 2 | | |
-| Documentation + submission | 2 | | |
+| Setup + plan | 1.5 | 0.5 | Faster than planned. |
+| Discovery + dataset | 12 | 2.75 | Auto-discovery failed, switched to manual curation. |
+| Validation + 3 deep records | 4 | 1.25 | URL verifier + 7 replacements + deep records. |
+| RAG build | 6 | 1.0 | Simpler than planned because chunking was trivial (one record = one chunk). |
+| Demo + deploy | 3 | 0.5 | Local demo + screen recording. Deploy skipped (recording sufficed per brief). |
+| Task 2 writeup | 2 | 0.5 | |
+| Documentation + submission | 2 | 0.5 | |
+| **Total focused work** | **30.5** | **~6** | Spread across two sessions over 24 hours. |

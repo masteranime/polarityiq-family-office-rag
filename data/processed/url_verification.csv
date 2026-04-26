@@ -1,0 +1,51 @@
+id,name,website,status,http_code,final_url
+fo_001,Bezos Expeditions,https://www.bezosexpeditions.com/,ok,200,https://www.bezosexpeditions.com/
+fo_002,Emerson Collective,https://www.emersoncollective.com/,ok,200,https://www.emersoncollective.com/
+fo_003,Cascade Investment,https://www.cascadeinvest.com/,ok,200,https://www.cascadeinvest.com/
+fo_004,Vulcan Inc.,https://www.vulcan.com/,ok,200,https://vulcanrealestate.com/
+fo_005,Willett Advisors,https://www.willettadvisors.com/,error,403,https://www.willettadvisors.com/
+fo_006,Walton Enterprises,https://www.waltonenterprises.com/,timeout,0,
+fo_007,Pritzker Group,https://www.pritzkergroup.com/,ok,200,https://www.pritzkergroup.com/
+fo_008,Soros Fund Management,https://www.soros.com/,dead,0,
+fo_009,Dell Technologies Capital / MSD Partners,https://www.msdpartners.com/,ok,200,https://bdtmsd.com
+fo_010,Iconiq Capital,https://www.iconiqcapital.com/,ok,200,https://www.iconiq.com/
+fo_011,Pictet Group,https://www.pictet.com/,ok,200,https://www.pictet.com/global/en
+fo_012,Edmond de Rothschild,https://www.edmond-de-rothschild.com/,error,403,https://www.edmond-de-rothschild.com/
+fo_013,Bessemer Trust,https://www.bessemertrust.com/,ok,200,https://www.bessemertrust.com/
+fo_014,Rockefeller Capital Management,https://www.rockco.com/,ok,200,https://www.rockco.com/
+fo_015,Pitcairn,https://www.pitcairn.com/,ok,200,https://www.pitcairn.com/
+fo_016,Tiger Global Management (Coleman family interests),https://www.tigerglobal.com/,ok,200,https://www.tigerglobal.com/
+fo_017,Stonebridge Capital,https://www.stonebridgecap.com/,ok,200,https://stonebridgecap.com/
+fo_018,Halo Investing (Smith family interests),https://www.haloinvesting.com/,ok,200,https://haloinvesting.com/
+fo_019,Geller Family Office Services,https://www.gellerfamilyoffice.com/,timeout,0,
+fo_020,Cresset Capital,https://www.cressetcapital.com/,ok,200,https://cressetcapital.com/
+fo_021,Tsao Family Office,https://www.tsao.com/,ok,200,https://www.tsao.com/
+fo_022,Sino Group (Ng family),https://www.sino.com/,ok,200,https://www.sino.com/
+fo_023,Tecity Group,https://www.tecity.com.sg/,ok,200,https://www.tecity.com.sg/
+fo_024,Quadrant Capital Advisors,https://www.quadrantfamily.com/,dead,0,
+fo_025,LGT Group,https://www.lgt.com/,ok,200,https://www.lgt.com/global-en
+fo_026,Mubadala Investment Company,https://www.mubadala.com/,dead,0,
+fo_027,Ardian (Decaux family ties),https://www.ardian.com/,ok,200,https://www.ardian.com/
+fo_028,BNP Paribas Wealth Management Family Office,https://wealthmanagement.bnpparibas/,ok,200,https://wealthmanagement.bnpparibas/en.html
+fo_029,Kirkbi (Lego family),https://www.kirkbi.com/,ok,200,https://www.kirkbi.com/
+fo_030,Wallenberg Foundations,https://www.wallenberg.com/,ok,200,https://www.wallenberg.com/
+fo_031,Bayou City Capital,https://www.bayoucitycapital.com/,dead,0,
+fo_032,Tracker Capital Management,https://www.trackercap.com/,ok,200,https://www.trackercap.com/
+fo_033,Westview Capital Partners,https://www.westviewcapital.com/,ok,200,https://www.westviewcapital.com/
+fo_034,Healey Development,http://healeydev.com,dead,0,
+fo_035,Sage Hill Investors,https://www.sagehillinvestors.com/,ok,200,https://www.sagehillinvestors.com/
+fo_036,Beamonte Investments,https://www.beamonte.com/,ok,200,https://www.beamonte.com/
+fo_037,Falcon Capital Family Office,https://falcon-cp.com,ok,200,https://falcon-cp.com/
+fo_038,Apex Heritage Group,https://apexlp.com,ok,200,https://apexlp.com/
+fo_039,Third Lake Capital,https://www.tlcapital.com/,ok,200,https://www.tlcapital.com/
+fo_040,Springlake Partners,https://springlakepartners.com,ok,200,https://springlakepartners.com/
+fo_041,Blue Ocean Enterprises,https://blueocean-inc.com,ok,200,https://blueocean-inc.com/
+fo_042,Capstone Holdings,https://capstoneholdingsinc.com,ok,200,https://capstoneholdingsinc.com/
+fo_043,Wilson Holding Company,https://wilsonholdingcompany.com,ok,200,https://wilsonholdingcompany.com/
+fo_044,RDV Corporation,http://rdvcorp.com,dead,0,
+fo_045,Jefferson River Capital,https://www.mrivercapital.com/,ok,200,https://www.mrivercapital.com/
+fo_046,Bristlecone Advisors,https://www.bristleconeadvisors.com/,ok,200,https://corient.com/us/en
+fo_047,Coolidge Family Office (Loring Wolcott & Coolidge),https://lwcotrust.com,ok,200,https://lwcotrust.com/
+fo_048,Anchor Capital,https://anchorcapital.com/,ok,200,https://anchorcapital.com/
+fo_049,JD Paramount,https://jdparamount.com,ok,200,https://jdparamount.com/
+fo_050,Meritage Family Office,https://meritagegroup.com,ok,200,https://meritagegroup.com/
