@@ -61,7 +61,7 @@ uvicorn rag.server:app --reload
 
 ## Live demo
 
-[Add Vercel/Render URL or screen recording link before submission]
+https://youtu.be/wyr40EM2u3Y
 
 ## Documentation
 
